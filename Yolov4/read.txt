@@ -1,1 +1,1 @@
-
+git clone the yolov4 model and use the uploaded files for detection and tracking
